@@ -23,7 +23,7 @@ EXCELLENCE SINCE 1927.html">Read More</a></B>
 <h2 style="color:purple;"><B><FONT SIZE=12>Podar International School - Hassan</B></h2>
 <marquee direction="left" scrollamount="20" id="marquee1"><p><img src="https://user-images.githubusercontent.com/123810864/216813425-eb0f6bef-65ef-45ea-af54-f2796134f28d.jpg" width=1500>
 <img src="https://user-images.githubusercontent.com/123810864/216813428-2b7c788c-efc1-4523-a2de-c6ae8f3dda3c.jpg" width=1500>
-<img src="https://user-images.githubusercontent.com/123810864/216813453-129ef35f-978c-49d3-b87c-bafb6bc18d60.jpg" width=1500 height=660></marquee></p>
+<img src="https://user-images.githubusercontent.com/123810864/216814380-6de83335-0525-48da-a72b-b4c3a711c93e.jpg" width=1500></marquee></p>
 <input type="button" value="Stop" onClick="document.getElementById('marquee1').stop();"/>
   <input type="button" value="Start" onClick="document.getElementById('marquee1').start();"/><br>
 <img src="https://user-images.githubusercontent.com/123810864/216813427-3d9018e6-f959-407a-ab2a-7930812e799b.jpg" style="float:left">
